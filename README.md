@@ -6,7 +6,7 @@ bitbank@pobox.com<br>
 <br>
 ![Nano 33 Gamepad](/demo.jpg?raw=true "Nano 33 Gamepad")
 <br>
-The purpose of this code is to use BLE HID gamepads with the Arduino 33 BLE
+The purpose of this code is to use BLE HID gamepads with the Arduino Nano 33 BLE.
 The Nano 33 BLE libraries don't include any HID support, so this code is
 very rudamentary and instead of properly parsing the HID reports, it makes
 assumptions to work with 2 popular devices (ACGAM R1 and MINI PLUS).
